@@ -20,6 +20,9 @@
     <a href="https://discord.gg/AVEFbBn2rH">
       <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">
     </a>
+    <a href="http://youtube.com/@SWE-bench">
+      <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+    </a>
   </p>
 </div>
 <hr/>
