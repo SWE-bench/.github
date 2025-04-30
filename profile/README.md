@@ -1,12 +1,35 @@
-# SWE-bench
+<div align="center" style="margin-bottom:1em">
+  <div>
+    <a href="https://github.com/SWE-bench/SWE-bench"><img src="swebench_logo_text_below.svg" alt="SWE-bench" height="120px"></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/SWE-agent/SWE-agent"><img src="sweagent_logo_text_below.svg" alt="SWE-agent" height="120px"></a>
+    &nbsp;&nbsp;
+    <!-- <a href="https://github.com/SWE-bench/SWE-smith"><img src="swesmith_logo_text_below.svg" alt="SWE-smith" height="120px"></a> -->
+    <a href="https://github.com/SWE-agent/SWE-ReX"><img src="swerex_logo_text_below.svg" alt="SWE-ReX" height="120px"></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/SWE-bench/sb-cli"><img src="sbcli_logo_text_below.svg" alt="sb-cli" height="120px"></a>
+  </div>
+  <br>
+  <div>Software engineering agents, benchmarks, and models.</div>
+  <div>Built and maintained by researchers from Stanford University and Princeton University.</div>
+  <br>
+  <p align="center">
+    <a href="[https://www.python.org/](https://huggingface.co/SWE-bench)">
+      <img alt="HuggingFace" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000">
+    </a>
+    <a href="https://discord.gg/AVEFbBn2rH">
+      <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">
+    </a>
+  </p>
+</div>
+<hr/>
 
-This organization contains the source code for [SWE-bench](https://swe-bench.github.io/), a benchmark for evaluating AI systems on real world GitHub issues.
+This organization contains the source code for several projects in the SWE-* open source ecosystem, including:
+* [SWE-bench](https://swe-bench.github.io/), a benchmark for evaluating AI systems on real world GitHub issues.
+* [SWE-agent](https://swe-agent.com/), a system that automatically solves GitHub issues using an LM agent.
+<!-- * [SWE-smith](https://swe-smith.com/), a toolkit for generating SWE training data at scale. -->
 
-Use the repositories in this organization to...
-* Construct SWE-bench datasets and run local evaluation ([SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench))
-* Run evaluations automatically and quickly on the cloud ([SWE-bench/sb-cli](https://github.com/SWE-bench/sb-cli))
-* Submit your predictions and evaluation results to be featured on the public leaderboard ([SWE-bench/experiments](https://github.com/SWE-bench/experiments))
-
-Also check out related organizations
-* [SWE-bench-repos](https://github.com/SWE-bench-repos): Mirror clones for repositories used for SWE-bench style evalautions.
-* [SWE-agent](https://github.com/SWE-agent): Solve GitHub issue(s) automatically with a Language Model powered agent!
+Also check out the supporting infrastructure for working with SWE-* projects
+* [SWE-ReX](https://github.com/SWE-agent/SWE-ReX), infrastructure supporting sandboxed code execution for AI agents
+* [sb-cli](https://github.com/SWE-bench/sb-cli), a command line interface for running evaluations on the cloud.
+* Mirror clones for SWE-bench and SWE-smith repository are available [here](https://github.com/SWE-bench-repos) and [here](https://github.com/orgs/swesmith/repositories).
