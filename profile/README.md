@@ -4,7 +4,8 @@
     &nbsp;&nbsp;
     <a href="https://github.com/SWE-agent/SWE-agent"><img src="sweagent_logo_text_below.svg" alt="SWE-agent" height="120px"></a>
     &nbsp;&nbsp;
-    <!-- <a href="https://github.com/SWE-bench/SWE-smith"><img src="swesmith_logo_text_below.svg" alt="SWE-smith" height="120px"></a> -->
+    <a href="https://github.com/SWE-bench/SWE-smith"><img src="swesmith_logo_text_below.svg" alt="SWE-smith" height="120px"></a>
+    &nbsp;&nbsp;
     <a href="https://github.com/SWE-agent/SWE-ReX"><img src="swerex_logo_text_below.svg" alt="SWE-ReX" height="120px"></a>
     &nbsp;&nbsp;
     <a href="https://github.com/SWE-bench/sb-cli"><img src="sbcli_logo_text_below.svg" alt="sb-cli" height="120px"></a>
@@ -30,7 +31,7 @@
 This organization contains the source code for several projects in the SWE-* open source ecosystem, including:
 * [SWE-bench](https://swe-bench.github.io/), a benchmark for evaluating AI systems on real world GitHub issues.
 * [SWE-agent](https://swe-agent.com/), a system that automatically solves GitHub issues using an LM agent.
-<!-- * [SWE-smith](https://swe-smith.com/), a toolkit for generating SWE training data at scale. -->
+* [SWE-smith](https://swe-smith.com/), a toolkit for generating SWE training data at scale.
 
 Also check out the supporting infrastructure for working with SWE-* projects
 * [SWE-ReX](https://github.com/SWE-agent/SWE-ReX), infrastructure supporting sandboxed code execution for AI agents
