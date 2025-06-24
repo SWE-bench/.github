@@ -36,4 +36,4 @@ This organization contains the source code for several projects in the SWE-* ope
 Also check out the supporting infrastructure for working with SWE-* projects
 * [SWE-ReX](https://github.com/SWE-agent/SWE-ReX), infrastructure supporting sandboxed code execution for AI agents
 * [sb-cli](https://github.com/SWE-bench/sb-cli), a command line interface for running evaluations on the cloud.
-* Mirror clones for SWE-bench and SWE-smith repository are available [here](https://github.com/SWE-bench-repos) and [here](https://github.com/orgs/swesmith/repositories).
+* Mirror clones for the SWE-bench and SWE-smith repositories are available [here](https://github.com/SWE-bench-repos) and [here](https://github.com/orgs/swesmith/repositories).
