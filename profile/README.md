@@ -18,8 +18,8 @@
     <a href="[https://www.python.org/](https://huggingface.co/SWE-bench)">
       <img alt="HuggingFace" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000">
     </a>
-    <a href="https://discord.gg/AVEFbBn2rH">
-      <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">
+    <a href="https://join.slack.com/t/swe-bench/shared_invite/zt-36pj9bu5s-o3_yXPZbaH2wVnxnss1EkQ">
+      <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff">
     </a>
     <a href="http://youtube.com/@SWE-bench">
       <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=YouTube&logoColor=white">
