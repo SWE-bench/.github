@@ -15,15 +15,9 @@
   <div>Built and maintained by researchers from Stanford University and Princeton University.</div>
   <br>
   <p align="center">
-    <a href="[https://www.python.org/](https://huggingface.co/SWE-bench)">
-      <img alt="HuggingFace" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000">
-    </a>
-    <a href="https://join.slack.com/t/swe-bench/shared_invite/zt-36pj9bu5s-o3_yXPZbaH2wVnxnss1EkQ">
-      <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff">
-    </a>
-    <a href="http://youtube.com/@SWE-bench">
-      <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=YouTube&logoColor=white">
-    </a>
+    <a href="https://huggingface.co/SWE-bench"><img alt="HuggingFace" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge"></a>
+    <a href="https://join.slack.com/t/swe-bench/shared_invite/zt-36pj9bu5s-o3_yXPZbaH2wVnxnss1EkQ"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge"></a>
+    <a href="http://youtube.com/@SWE-bench"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=YouTube&logoColor=white&style=for-the-badge"></a>
   </p>
 </div>
 <hr/>
