@@ -1,19 +1,22 @@
 <div align="center" style="margin-bottom:1em">
   <p>
+    <b>📣 New benchmark: <code>CodeClash</code> (<a href="https://codeclash.ai">website</a>, <a href="https://github.com/codeclash-ai/codeclash">github</a>) evaluates SWE agents on goals, not tasks</b><br/>
     <b>📣 New:</b> Meet <a href="https://github.com/SWE-agent/mini-SWE-agent"><code>mini</code></a>, the 100 line AI agent that still gets 65% on SWE-bench verified!
   </p>
   <div>
-    <a href="https://github.com/SWE-bench/SWE-bench"><img src="swebench_logo_text_below.svg" alt="SWE-bench" height="120px"></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/SWE-agent/SWE-agent"><img src="sweagent_logo_text_below.svg" alt="SWE-agent" height="120px"></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/SWE-bench/SWE-smith"><img src="swesmith_logo_text_below.svg" alt="SWE-smith" height="120px"></a>
-    &nbsp;&nbsp;
-      <a href="https://github.com/SWE-agent/mini-SWE-agent"><img src="mini_logo_text_below.svg" alt="mini-SWE-agent" height="120px"></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/SWE-agent/SWE-ReX"><img src="swerex_logo_text_below.svg" alt="SWE-ReX" height="120px"></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/SWE-bench/sb-cli"><img src="sbcli_logo_text_below.svg" alt="sb-cli" height="120px"></a>
+    <a href="https://github.com/SWE-bench/SWE-bench"><img src="swebench_logo_text_below.svg" alt="SWE-bench" height="110px"></a>
+    &nbsp;
+    <a href="https://github.com/SWE-agent/SWE-agent"><img src="sweagent_logo_text_below.svg" alt="SWE-agent" height="110px"></a>
+    &nbsp;
+    <a href="https://github.com/codeclash-ai/codeclash"><img src="https://raw.githubusercontent.com/SWE-agent/swe-agent-media/refs/heads/main/media/logos_banners/codeclash_logo_text_below.svg" alt="codeclash logo" height="110px"></a>
+    &nbsp;
+    <a href="https://github.com/SWE-bench/SWE-smith"><img src="swesmith_logo_text_below.svg" alt="SWE-smith" height="110px"></a>
+    &nbsp;
+      <a href="https://github.com/SWE-agent/mini-SWE-agent"><img src="mini_logo_text_below.svg" alt="mini-SWE-agent" height="110px"></a>
+    &nbsp;
+    <a href="https://github.com/SWE-agent/SWE-ReX"><img src="swerex_logo_text_below.svg" alt="SWE-ReX" height="110px"></a>
+    &nbsp;
+    <a href="https://github.com/SWE-bench/sb-cli"><img src="sbcli_logo_text_below.svg" alt="sb-cli" height="110px"></a>
   </div>
   <br>
   <div>Software engineering agents, benchmarks, and models.</div>
