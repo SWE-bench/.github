@@ -34,7 +34,7 @@ This organization contains the source code for several projects in the SWE-* ope
 * [SWE-bench](https://swe-bench.github.io/), a benchmark for evaluating AI systems on real world GitHub issues.
 * [SWE-agent](https://swe-agent.com/), a system that automatically solves GitHub issues using an LM agent.
 * [SWE-smith](https://swesmith.com/), a toolkit for generating SWE training data at scale.
-* [mini](https://github.com/swe-agent/mini-swe-agent), an AI agent written in just 100 lines of code that scores 65% on SWE-bench verified
+* [mini](https://github.com/swe-agent/mini-swe-agent), an AI agent written in just 100 lines of code that scores >70% on SWE-bench verified
 
 Also check out the supporting infrastructure for working with SWE-* projects
 * [SWE-ReX](https://github.com/SWE-agent/SWE-ReX), infrastructure supporting sandboxed code execution for AI agents
